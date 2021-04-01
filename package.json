@@ -1,3 +1,18 @@
+
 {
-"name":"Sample Bot",
-}
+    "name": "DBD.js-bot",
+    "version": "1.0.01",
+    "description": "A sample DBD.js bot",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "engines": {
+      "node": "12.x"
+    },
+    "author": "Ayush7315",
+    "license": "ISC",
+    "dependencies": {
+      "dbd.js": "^2.2.6"
+    }
+  }
