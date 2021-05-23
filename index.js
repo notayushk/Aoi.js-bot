@@ -14,4 +14,8 @@ bot.status {(
  type: "LISTENING",
  time: 10
 });
-bot.variables(require("variables.js"));
+bot.variables ({
+  wallet: "0", //wallet money
+  bank: "0", //bank money
+  bio: "I am Just a Plain Human" //user bio for profile
+});
