@@ -1,2 +1,4 @@
 module.exports ({
-$set
+name: "daily",
+code: `
+   $set
