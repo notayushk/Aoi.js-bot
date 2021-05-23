@@ -1,5 +1,5 @@
-const dbd = require("dbd.js")
-const bot = new dbd.Bot({
+const aoi = require("aoi.js")
+const bot = new aoi.Bot({
      token: "",
      prefix: ""
 })
