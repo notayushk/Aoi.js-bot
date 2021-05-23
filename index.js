@@ -3,4 +3,8 @@ const bot = new aoi.Bot({
      token: "",
      prefix: ""
 })
-bot.loadCommands('./Commmands/')
+bot.onMessage({
+  guildOnly: false //make commands work in dms
+})
+
+bot.loadCommands('./Commmands/') //command handler
