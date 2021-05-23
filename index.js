@@ -14,3 +14,4 @@ bot.status {(
  type: "LISTENING",
  time: 10
 });
+bot.variables(require("variables.js"));
