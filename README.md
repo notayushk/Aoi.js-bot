@@ -16,3 +16,6 @@ Now edit config.js and then use
 ```
 npm start
 ```
+For any other queries,feel free to dm me,I am Ayush#4385 on Discord.
+## Contributions
+Feel free to make a PR to contribute to this project
