@@ -9,7 +9,6 @@ It's a multi-purpose bot with economy,music and much more!!
 There is no invite link for this bot since it's just a guide bot
 ## Configure
 It's very easy to configure this bot
-### 1.For Development
 ```
 git clone https://github.com/Ayush4385/Aoi.js-bot
 ```
