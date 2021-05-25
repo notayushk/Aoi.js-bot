@@ -1,5 +1,4 @@
-# Aoi.js Bot
-[!chat](https://img.shields.io/discord/834072579143893012?style=for-the-badge)
+# Aoi.js
 A simple Multipupose-bot made with Aoi.js(formely DBD.js).It's a simple and easy package made to develop discord bots.
 > If you use this code,then you don't need to credit me :)
 
