@@ -2,7 +2,7 @@
 A simple Multipupose-bot made with Aoi.js(formely DBD.js).It's a simple and easy package made to develop discord bots.
 > If you use this code,then you don't need to credit me :)
 
-> NOTE: The Bot is currently in development stage
+> NOTE: I have made a few commands now make your own :)
 
 It's a multi-purpose bot with economy,music and much more!!
 ### Invite Link
