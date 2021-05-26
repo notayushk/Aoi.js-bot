@@ -7,6 +7,14 @@ const bot = new aoi.Bot({
 bot.onMessage({
   guildOnly: false //make commands work in dms
 });
+bot.onMusicStart()
+bot.musicStartCommand({
+ channel: "$channelID", 
+ code: `
+ $color[RANDOM]
+ $author[Now Playing]
+ $description[Playing $songInfo[title]]`
+})
 
 bot.loadCommands('./Commmands/'); //command handler
 bot.status {(
