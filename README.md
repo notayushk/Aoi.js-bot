@@ -19,3 +19,9 @@ npm start
 For any other queries,feel free to dm me,I am Ayush#4385 on Discord.
 ## Contributions
 Feel free to make a PR to contribute to this project
+
+## Having Issues?
+
+<a href="https://discord.gg/WCDtmkNBJv">
+<img alt="Discord" src="https://img.shields.io/badge/The Coding Hill-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
