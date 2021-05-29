@@ -18,7 +18,7 @@ npm start
 ```
 For any other queries,feel free to dm me,I am Ayush#4385 on Discord.
 ## Contributions
-Feel free to make a PR to contribute to this project
+Feel free to make a Pull request contribute to this project
 
 ## Having Issues?
 
