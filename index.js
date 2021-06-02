@@ -17,7 +17,7 @@ bot.musicStartCommand({
 })
 
 bot.loadCommands('./Commmands/'); //command handler
-bot.status {(
+bot.status ({
  text: "${config.Prefix_3} help",
  type: "LISTENING",
  time: 10
