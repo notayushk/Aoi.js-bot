@@ -1,4 +1,4 @@
-# Aoi.js
+# Aoi.js Bot
 A simple Multipupose-bot made with Aoi.js(formely DBD.js).It's a simple and easy package made to develop discord bots.
 > If you use this code,then you don't need to credit me :)
 
