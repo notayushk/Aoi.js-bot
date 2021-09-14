@@ -14,7 +14,11 @@ bot.musicStartCommand({
  $color[RANDOM]
  $author[Now Playing]
  $description[Playing $songInfo[title]]`
-})
+});
+bot.musicEndCommand({
+        channel: "$channelID",
+        code: `$sendMessage[{description: I'm leaving the Voice Channel since no one is playing music anymore}{delete:5s};no]`
+        });
 
 bot.loadCommands('./Commmands/'); //command handler
 bot.status ({
