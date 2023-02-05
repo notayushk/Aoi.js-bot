@@ -1,5 +1,5 @@
 # Aoi.js Bot
-![Lines of Code](https://img.shields.io/tokei/lines/github/Ayush4385/Aoi.js-bot?&style=for-the-badge)
+![Lines of Code](https://img.shields.io/tokei/lines/github/iayushk10/Aoi.js-bot?&style=for-the-badge)
 
 A simple Multipupose-bot made with Aoi.js(formely DBD.js).It's a simple and easy package made to develop discord bots.
 > If you use this code,then you don't need to credit me :)
